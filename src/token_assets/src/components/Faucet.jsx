@@ -20,7 +20,7 @@ function Faucet() {
         </span>
         Faucet
       </h2>
-      <label>Get your free DAngela tokens here! Claim 10,000 DIPO tokens to your account.</label>
+      <label>Get your free DKevin tokens here! Claim 10,000 DIPO tokens to your account.</label>
       <p className="trade-buttons">
         <button 
         id="btn-payout" 
